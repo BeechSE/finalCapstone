@@ -15,11 +15,11 @@ Use this file path to access the code: <https://github.com/BeechSE/finalCapstone
 A simple minesweeper game created in using 2D arrays Python
 
 ### Installation
-Use this file path to access the code: <>
+Use this file path to access the code: <https://github.com/BeechSE/finalCapstone/blob/master/minesweeper.py>
 
 ## Triathlon qualification calculator
 Python code that can easily tell a competitor whether they have qualified and to which level
 
 ### Installation
-Use this file path to access the code: <>
+Use this file path to access the code: <https://github.com/BeechSE/finalCapstone/blob/master/triathlon_qualification.py>
 
